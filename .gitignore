@@ -1,0 +1,6 @@
+.idea
+.vscode
+.ipynb_checkpoints
+cmake-build-debug
+cmake-build-release
+build
