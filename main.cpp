@@ -3,8 +3,18 @@
 #include <rapidcsv.h>
 #include <random>
 #include <indicators.hpp>
+#include <bits/stdc++.h>
 
-using namespace std;
+using std::cout;
+using std::default_random_engine;
+using std::endl;
+using std::min;
+using std::normal_distribution;
+using std::numeric_limits;
+using std::random_device;
+using std::string;
+using std::tuple;
+using std::vector;
 using namespace indicators;
 
 typedef vector<vector<int>> vvi;
